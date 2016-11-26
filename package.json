@@ -1,0 +1,23 @@
+{
+  "name": "studio-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron-pug": "^1.5.1",
+    "express": "^4.14.0",
+    "gulp-pug": "^3.1.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp": "^3.9.1",
+    "gulp-haml": "^0.1.6",
+    "jquery": "^3.1.1",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
